@@ -1,1 +1,7 @@
- VPC, Internet Gateway, Subnets public and private, NAT, Elastic IP...
+ can you build a network for me...please
+
+
+ I am building a network...
+
+
+
